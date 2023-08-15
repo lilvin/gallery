@@ -5,5 +5,6 @@ config.mongoURI = {
     production: 'mongodb+srv://lilianthiauru:Royalkenya@2023@gallery.wc344.mongodb.net/darkroom?retryWrites=true&w=majority',
     development: 'mongodb+srv://lilianthiauru:Royalkenya@2023@gallery.wc344.mongodb.net/darkroom-dev?retryWrites=true&w=majority',
     test: 'mongodb+srv://lilianthiauru:Royalkenya@2023@gallery.wc344.mongodb.net/darkroom-test?retryWrites=true&w=majority',
+
 }
 module.exports = config;
